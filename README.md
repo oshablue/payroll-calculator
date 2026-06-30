@@ -1,4 +1,4 @@
-# 📊 2026 S-Corp Payroll Calculator, Ledger and Verifier (NM State)
+# 📊 2026 S-Corp Payroll Calculator, Ledger and Verifier (Federal + NM State)
 
 ## Human Note:
 The code in this Python (Jupyter Notebook) was mostly AI-generated through many revisions, corrections, and feature development conversations (by / from / with a human). Via Gemini via web browser interface. Even this readme is mostly AI Gen from Cell K, except comments here up top ("Human Note") and possibly tweaks elsewhere. 
@@ -25,6 +25,8 @@ This project targets needs (Outputs):
     - State SUI and associated unemployment and admin assessment fees
     - State quarterly reporting
 - PDF YTD type of summary output
+
+Run using .venv for example.
 
 **Disclaimer:** If anyone plays with this, basically assume it is all wrong generally, and then also wrong specifically for you. NO WARRANTY. NO GUARANTEES. Nothing. The only thing implied about this code is that it is all wrong.
 
